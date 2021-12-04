@@ -1,0 +1,18 @@
+{
+    "spritesheet": "spritesheet.bmp",
+    "maps": [
+        {
+            "texture": "map1.bmp",
+            "start": [1, 2],
+            "zones": [
+                {
+                    "dimensions": [1, 2, 2, 3],
+                    "blocking": true,
+                    "wild area": null,
+                    "map exit": null,
+                    "type": "blocking OR wild area OR trainer vision OR path out of map"
+                }
+            ]
+        }
+    ]
+}
